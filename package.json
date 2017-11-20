@@ -1,0 +1,19 @@
+{
+  "name": "redomat",
+  "version": "1.0.0",
+  "description": "Aplikacija za redosljed obrade prema dolasku stranke",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kresimirkrhac/redomat.git"
+  },
+  "author": "Kresimir Krhac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kresimirkrhac/redomat/issues"
+  },
+  "homepage": "https://github.com/kresimirkrhac/redomat#readme"
+}
