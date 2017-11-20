@@ -4,6 +4,7 @@
   "description": "Aplikacija za redosljed obrade prema dolasku stranke",
   "main": "index.js",
   "scripts": {
+    "start": "node server/server.js",
     "test": "test"
   },
   "repository": {
@@ -15,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/kresimirkrhac/redomat/issues"
   },
-  "homepage": "https://github.com/kresimirkrhac/redomat#readme"
+  "homepage": "https://github.com/kresimirkrhac/redomat#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "http": "0.0.0",
+    "path": "^0.12.7",
+    "socket.io": "^2.0.4"
+  }
 }
